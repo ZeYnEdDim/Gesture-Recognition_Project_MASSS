@@ -1,0 +1,26 @@
+Student Activity Log
+
+Student: Zeyneddin Papaxov
+
+Note:
+This project was completed individually that's why all logs carried out by me
+
+Week 1:
+- Paper analysis
+- Literature review
+- Preparation of presentation slides
+
+Week 2:
+- Android Studio setup
+- UI planning and implementation
+- Application development
+
+Week 3:
+- Dataset preparation
+- Data preprocessing
+- SVM and Random Forest training
+
+Week 4:
+- Testing and debugging
+- GitHub repository setup
+- Final project packaging
